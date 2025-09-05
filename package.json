@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "type": "module",
   "private": true,
-  "homepage": "https://pushparaj-sp.github.io/Portfolio",
+  "homepage": "https://pushparaj-sp.github.io/Portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
