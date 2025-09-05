@@ -1,5 +1,9 @@
+/** @type {import('tailwindcss').Config} */
 export default {
-  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}"
+  ],
   theme: {
     extend: {
       colors: {
@@ -10,6 +14,7 @@ export default {
         "primary-foreground": "hsl(var(--primary-foreground))",
         card: "hsl(var(--card))",
       },
+      // You can extend more if needed, like spacing, fontSize, etc.
     },
   },
   plugins: [],
