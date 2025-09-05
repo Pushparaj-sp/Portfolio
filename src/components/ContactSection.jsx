@@ -107,7 +107,7 @@ export const ContactSection = () => {
                 </a>
 
                 <a
-                  href="https://www.instagram.com/pushparaj_3023/?__pwa=1"
+                  href="https://www.instagram.com/_pushparaj.s_?igsh=OGt6Z3N6eTltOWxq"
                   target="_blank"
                 >
                   <Instagram />
@@ -124,7 +124,7 @@ export const ContactSection = () => {
           </div>
 
           <div
-            className="bg-card p-8 rounded-lg shadow-xs"
+            className=" bg-gray-900 bg-card p-8 rounded-lg shadow-xs"
             onSubmit={handleSubmit}
           >
             <h3 className="text-2xl font-semibold mb-6">Send a Message</h3>
@@ -142,7 +142,7 @@ export const ContactSection = () => {
                   id="name"
                   name="name"
                   required
-                  className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
+                  className="bg-gray-800 w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
                   placeholder="Pushparaj...."
                 />
               </div>
@@ -159,7 +159,7 @@ export const ContactSection = () => {
                   id="email"
                   name="email"
                   required
-                  className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
+                  className="bg-gray-800 w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
                   placeholder="Spushparaj8807@gmail.com...."
                 />
               </div>
@@ -175,7 +175,7 @@ export const ContactSection = () => {
                   id="message"
                   name="message"
                   required
-                  className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary resize-none"
+                  className="bg-gray-800 w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary resize-none"
                   placeholder="Hello, I'd like to talk about..."
                 />
               </div>
