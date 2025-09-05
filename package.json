@@ -1,9 +1,8 @@
 {
   "name": "portfolio",
-  "type": "module",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://pushparaj-sp.github.io/Portfolio/",
+  "homepage": "https://Pushparaj-sp.github.io/Portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
