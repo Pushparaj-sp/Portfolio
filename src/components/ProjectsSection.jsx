@@ -15,7 +15,7 @@ const projects = [
     title: "VIT Website- Cloning ",
     description:
       "A VIT Admission website clone providing details, forms, and resources for students apply .",
-    image: "./certificates/vitee.png",
+    image: "./certificates/css.png",
     tags: ["ReactJS", "HTML", "CSS"],
     demoUrl: "https://github.com/Pushparaj-sp/VIT",
     githubUrl: "https://github.com/Pushparaj-sp/VIT",
