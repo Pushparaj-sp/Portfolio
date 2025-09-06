@@ -1,11 +1,10 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
-
 const projects = [
   {
     id: 1,
     title: "GlowGroove - E-Commerce Website",
     description: "A beautiful landing page app using FrontEnd-development.",
-    image: import.meta.env.BASE_URL + "glow.png", // ✅ fixed
+    image: "./certificates/glow.png", // ✅ fixed
     tags: ["HTML", "TailwindCSS", "Javascript"],
     demoUrl: "https://pushparaj-sp-23.neocities.org/GlowGroove/",
     githubUrl: "https://pushparaj-sp-23.neocities.org/GlowGroove/",
@@ -15,7 +14,7 @@ const projects = [
     title: "VIT Website- Cloning ",
     description:
       "A VIT Admission website clone providing details, forms, and resources for students apply .",
-    image: "./certificates/css.png",
+    image: "./certificates/vitee.png",
     tags: ["ReactJS", "HTML", "CSS"],
     demoUrl: "https://github.com/Pushparaj-sp/VIT",
     githubUrl: "https://github.com/Pushparaj-sp/VIT",
@@ -25,7 +24,7 @@ const projects = [
     title: "Memocare - A Mobile App",
     description:
       "Smart Memory and Safety Assistant for Amnesia Patients.",
-    image: import.meta.env.BASE_URL + "amnesia.jpg",
+    image: "./certificates/amnesia.jpg",
     tags: ["React", "Dart", "Flutter"],
     demoUrl: "https://github.com/Pushparaj-sp/memocare/",
     githubUrl: "https://github.com/Pushparaj-sp/memocare/",
