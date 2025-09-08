@@ -4,7 +4,7 @@ const projects = [
     id: 1,
     title: "GlowGroove - E-Commerce Website",
     description: "A beautiful landing page app using FrontEnd-development.",
-    image: "./img/glow.png", // ✅ fixed
+    image: "src/assets/img/glow.png",
     tags: ["HTML", "TailwindCSS", "Javascript"],
     demoUrl: "https://pushparaj-sp-23.neocities.org/GlowGroove/",
     githubUrl: "https://pushparaj-sp-23.neocities.org/GlowGroove/",
@@ -14,7 +14,7 @@ const projects = [
     title: "VIT Website- Cloning ",
     description:
       "A VIT Admission website clone providing details, forms, and resources for students apply .",
-    image: "./img/vitee.png",
+    image: "src/assets/img/vitee.png",
     tags: ["ReactJS", "HTML", "CSS"],
     demoUrl: "https://github.com/Pushparaj-sp/VIT",
     githubUrl: "https://github.com/Pushparaj-sp/VIT",
@@ -24,7 +24,7 @@ const projects = [
     title: "Memocare - A Mobile App",
     description:
       "Smart Memory and Safety Assistant for Amnesia Patients.",
-    image: "./img/amnesia.jpg",
+    image: "src/assets/img/amnesia.jpg",  
     tags: ["React", "Dart", "Flutter"],
     demoUrl: "https://github.com/Pushparaj-sp/memocare/",
     githubUrl: "https://github.com/Pushparaj-sp/memocare/",
