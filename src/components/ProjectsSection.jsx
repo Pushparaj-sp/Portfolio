@@ -4,9 +4,7 @@ const projects = [
     id: 1,
     title: "GlowGroove - E-Commerce Website",
     description: "A beautiful landing page app using FrontEnd-development.",
-    // image: "./img/glow.png",
-    //
-    image: "./certificates/coursera.jpg",✅ fixed
+    image: "./img/glow.png",
     tags: ["HTML", "TailwindCSS", "Javascript"],
     demoUrl: "https://pushparaj-sp-23.neocities.org/GlowGroove/",
     githubUrl: "https://pushparaj-sp-23.neocities.org/GlowGroove/",
